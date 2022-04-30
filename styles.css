@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+    height: auto;
+    align-content: center;
+}
+h1 {
+    color: green;
+    font-weight: bolder;
+    background-color: orange;
+    text-align: center;
+}
+
+p, ol, ul, a {
+    text-align: center;
+    background-color:brown;
+    color: bisque;
+    font-size: 30px;
+
+}
